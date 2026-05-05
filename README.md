@@ -1,4 +1,5 @@
-# 🏴‍☠️ Hasır Şapka Labirent Macerası (One Piece Maze Game)
+# 🏴‍☠️ Hasır Şapka Labirent Macerası 
+(One Piece Maze Game)
 
 Python ve **PyQt5** kullanılarak geliştirilmiş, 10 farklı zorluk seviyesinden oluşan heyecan verici bir labirent oyunudur. Oyuncular, her bölümde farklı bir "Hasır Şapka" korsanını kontrol ederek kısıtlı süre içinde kendi hedefine (örneğin Luffy'yi ete, Zoro'yu kılıcına) ulaştırmaya çalışır.
 
