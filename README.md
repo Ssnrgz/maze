@@ -34,7 +34,7 @@ Oyunu kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izl
 
 **1. Depoyu Klonlayın:**
 ```bash
-git clone 
+git clone https://github.com/Ssnrgz/maze.git
 cd labirent
 
 2. Gerekli Kütüphaneleri Kurun:
@@ -86,7 +86,7 @@ Follow these steps to run the game on your local machine.
 
 **1. Clone the Repository:**
 ```bash
-git clone 
+git clone https://github.com/Ssnrgz/maze.git
 cd hasir-sapka-labirent
 
 2. Install Required Libraries:
